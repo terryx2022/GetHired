@@ -1,4 +1,4 @@
-note: problem1 was developed in VS Code, so there is a .vscode file in the repo.
+Note: problem1 was developed in VS Code, so there is a .vscode file in the repo.
 
 # Solution
 
