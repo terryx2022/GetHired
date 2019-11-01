@@ -1,3 +1,5 @@
+note: problem1 was developed in VS Code, so there is a .vscode file in the repo.
+
 # Solution
 
 * [Solution to problem1.1](problem1/GUI_1.1/)
