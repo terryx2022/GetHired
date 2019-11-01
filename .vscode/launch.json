@@ -1,0 +1,29 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - JavaSolution",
+            "request": "launch",
+            "mainClass": "JavaSolution",
+            "projectName": "GetHired_58e6a998"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch GUI 1.2",
+            "url": "http://localhost:8080",
+            "file": "${workspaceFolder}/problem1/GUI_1.2/index.html"
+        },
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Launch GUI 1.1",
+            "url": "http://localhost:8080",
+            "file": "${workspaceFolder}/problem1/GUI_1.1/index.html"
+        }
+    ]
+}
